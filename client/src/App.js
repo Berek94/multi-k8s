@@ -8,7 +8,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <header style={{ margin: '20px' }}>
-          <h1>Fib Calculator v2</h1>
+          <h1>Fib Calculator in Kubernetes</h1>
           <Link to="/">Home</Link>
           {' '}
           <Link to="/other-page">Other page</Link>
